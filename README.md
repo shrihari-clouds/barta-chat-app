@@ -46,7 +46,7 @@ password: 1234guest
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/mern-chat-app.git
+   git clone https://github.com/shrihari-clouds/mern-chat-app.git
    ```
 2. Navigate to the backend folder and frontend folter then install dependencies:
     ```
@@ -83,7 +83,7 @@ password: 1234guest
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GNU License.
 
 ## About the Author 📝
 This project was developed by **Whosaheb**. Feel free to reach out with any questions or suggestions.
